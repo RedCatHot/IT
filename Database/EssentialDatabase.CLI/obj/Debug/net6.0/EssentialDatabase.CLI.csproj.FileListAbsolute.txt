@@ -1,0 +1,17 @@
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.CLI.deps.json
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.CLI.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.CLI.pdb
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.Core.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.Management.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.Management.pdb
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\bin\Debug\net6.0\EssentialDatabase.Core.pdb
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.csproj.AssemblyReference.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.AssemblyInfoInputs.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.AssemblyInfo.cs
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.csproj.CoreCompileInputs.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.csproj.CopyComplete
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\refint\EssentialDatabase.CLI.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\EssentialDatabase.CLI.pdb
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\EssentialDatabase.CLI\obj\Debug\net6.0\ref\EssentialDatabase.CLI.dll
