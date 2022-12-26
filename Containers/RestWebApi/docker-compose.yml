@@ -1,0 +1,39 @@
+version: "3"
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    networks:
+      - elk
+    ports:
+      - '5672:5672'
+      - '15672:15672'
+    expose:
+     - '15672'
+     - '5672'
+
+  rest-webapi-service:
+    image: displayitregistryqa.azurecr.io/limestonedigital-client-displayit/rest-webapi-service
+    domainname: displayit-app-test
+    environment:
+      - 'ASPNETCORE_ENVIRONMENT=Development'
+      - 'ASPNETCORE_URLS=http://+:7070'
+      - 'ConnectionStrings__RabbitMqConnectionString=rabbitmq://guest:guest@localhost:5672'
+    build:
+        context: .
+        dockerfile: ./RestWebApi/Dockerfile
+    networks:
+      - elk
+    ports:
+      - '7070:7070'
+    expose:
+      - '7070'
+    links:
+      - rabbitmq
+    depends_on:
+      - rabbitmq
+
+networks:
+  elk:
+    driver: bridge
