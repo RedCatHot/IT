@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "+CUc1b1ZoxDQ+jVIeaihwQBoVPiJ5XmkJNfs633xHABdA6KhRgp0LLvZI8fX5RGsks08O+yJAhXET+uoMWrACA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LiubomyrMaievskyi\\source\\repos\\Education\\essential-db\\Database\\EssentialDatabase.PersistenceService\\EssentialDatabase.PersistenceService.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.0.2.238:8080/guestAuth/app/nuget/v1/FeedService.svc/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
