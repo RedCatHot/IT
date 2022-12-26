@@ -1,0 +1,268 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Tests\\EssentialDatabase.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.CLI\\EssentialDatabase.CLI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.CLI\\EssentialDatabase.CLI.csproj",
+        "projectName": "EssentialDatabase.CLI",
+        "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.CLI\\EssentialDatabase.CLI.csproj",
+        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.CLI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj": {
+                "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj",
+        "projectName": "EssentialDatabase.Core",
+        "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj",
+        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj",
+        "projectName": "EssentialDatabase.Management",
+        "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj",
+        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj": {
+                "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Tests\\EssentialDatabase.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Tests\\EssentialDatabase.Tests.csproj",
+        "projectName": "EssentialDatabase.Tests",
+        "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Tests\\EssentialDatabase.Tests.csproj",
+        "packagesPath": "C:\\Users\\vladd\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\vladd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.CLI\\EssentialDatabase.CLI.csproj": {
+                "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.CLI\\EssentialDatabase.CLI.csproj"
+              },
+              "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj": {
+                "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Core\\EssentialDatabase.Core.csproj"
+              },
+              "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj": {
+                "projectPath": "C:\\Users\\vladd\\OneDrive\\Робочий стіл\\essential-db\\essential-db\\Database\\EssentialDatabase.Management\\EssentialDatabase.Management.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
