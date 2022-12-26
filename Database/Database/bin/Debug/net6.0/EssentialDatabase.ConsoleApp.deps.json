@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EssentialDatabase.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "EssentialDatabase.CLI": "1.0.0",
+          "EssentialDatabase.Core": "1.0.0",
+          "EssentialDatabase.Management": "1.0.0"
+        },
+        "runtime": {
+          "EssentialDatabase.ConsoleApp.dll": {}
+        }
+      },
+      "EssentialDatabase.CLI/1.0.0": {
+        "dependencies": {
+          "EssentialDatabase.Management": "1.0.0"
+        },
+        "runtime": {
+          "EssentialDatabase.CLI.dll": {}
+        }
+      },
+      "EssentialDatabase.Core/1.0.0": {
+        "runtime": {
+          "EssentialDatabase.Core.dll": {}
+        }
+      },
+      "EssentialDatabase.Management/1.0.0": {
+        "dependencies": {
+          "EssentialDatabase.Core": "1.0.0"
+        },
+        "runtime": {
+          "EssentialDatabase.Management.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EssentialDatabase.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EssentialDatabase.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EssentialDatabase.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EssentialDatabase.Management/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

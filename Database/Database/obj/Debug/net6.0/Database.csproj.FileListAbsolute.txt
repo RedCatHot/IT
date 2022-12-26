@@ -1,0 +1,15 @@
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\bin\Debug\net6.0\Database.exe
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\bin\Debug\net6.0\Database.deps.json
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\bin\Debug\net6.0\Database.runtimeconfig.json
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\bin\Debug\net6.0\Database.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\bin\Debug\net6.0\Database.pdb
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.csproj.AssemblyReference.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.AssemblyInfoInputs.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.AssemblyInfo.cs
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\refint\Database.dll
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.pdb
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\Database.genruntimeconfig.cache
+C:\Users\LiubomyrMaievskyi\source\repos\Education\essential-db\Database\Database\obj\Debug\net6.0\ref\Database.dll
